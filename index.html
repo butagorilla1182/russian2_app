@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ロシア語2級 単語アプリ</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2f5d50">
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./service-worker.js");
+      });
+    }
+  </script>
+</head>
+<body>
+  <main class="app">
+    <h1>ロシア語能力検定2級</h1>
+    <p class="subtitle">第60〜86回 過去問ベース・オフライン単語アプリ</p>
+
+    <section id="levelScreen" class="card">
+      <h2>学習レベルを選択</h2>
+
+      <button onclick="selectLevel(1)">1 基礎・頻出1200</button>
+      <button onclick="selectLevel(2)">2 2級本命2000</button>
+      <button onclick="selectLevel(3)">3 実戦・作文2500</button>
+
+      <button class="weak-btn" onclick="startWeakMode()">弱点だけ復習</button>
+      <button class="reset-btn" onclick="resetWeakCards()">弱点リセット</button>
+
+      <p id="weakCount" class="small"></p>
+      <p id="totalCount" class="small"></p>
+    </section>
+
+    <section id="categoryScreen" class="card hidden">
+      <div class="topbar">
+        <button onclick="backToLevel()">← 戻る</button>
+        <span id="selectedLevelLabel"></span>
+      </div>
+
+      <h2>分野を選択</h2>
+      <p id="categoryCount" class="small"></p>
+
+      <button onclick="startCategory('all')">全部ランダム</button>
+      <button onclick="startCategory('vocab')">頻出語彙</button>
+      <button onclick="startCategory('verb')">動詞の体</button>
+      <button onclick="startCategory('case')">格支配</button>
+      <button onclick="startCategory('number')">数詞</button>
+      <button onclick="startCategory('participle')">形動詞・副動詞</button>
+      <button onclick="startCategory('composition')">口頭作文</button>
+      <button onclick="startCategory('theme')">テーマ整理</button>
+    </section>
+
+    <section id="studyScreen" class="card hidden">
+      <div class="topbar">
+        <button onclick="backToCategory()">← 戻る</button>
+        <span id="modeLabel"></span>
+      </div>
+
+      <p id="progress" class="progress"></p>
+      <p id="tag"></p>
+
+      <h2 id="front"></h2>
+      <p id="hint">答えを見るを押して確認</p>
+
+      <div id="back" class="answer hidden"></div>
+
+      <div class="buttons">
+        <button onclick="showAnswer()">答えを見る</button>
+        <button class="ok" onclick="markCorrect()">正解</button>
+        <button class="ng" onclick="markWrong()">間違い</button>
+        <button onclick="nextCard()">次へ</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="cards.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

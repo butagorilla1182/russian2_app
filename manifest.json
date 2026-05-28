@@ -1,0 +1,9 @@
+{
+  "name": "ロシア語能力検定2級",
+  "short_name": "ロシア語2級",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#2f5d50",
+  "icons": []
+}
