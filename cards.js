@@ -33470,5 +33470,13576 @@ const cards = [
       "2500自動増強",
       "語学・学習"
     ]
+  },
+  {
+    "id": "pass-vocab-rujp-0001",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "обуче́ние",
+    "back": "教育・学習\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0002",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "教育・学習",
+    "back": "обуче́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0003",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：教育・学習",
+    "back": "обуче́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0004",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で обуче́ние が出たら？",
+    "back": "教育・学習\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0005",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "успе́ваемость",
+    "back": "成績\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0006",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "成績",
+    "back": "успе́ваемость\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0007",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：成績",
+    "back": "успе́ваемость\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0008",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で успе́ваемость が出たら？",
+    "back": "成績\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0009",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "уче́бная нагру́зка",
+    "back": "学習負担\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0010",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "学習負担",
+    "back": "уче́бная нагру́зка\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0011",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：学習負担",
+    "back": "уче́бная нагру́зка\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0012",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で уче́бная нагру́зка が出たら？",
+    "back": "学習負担\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0013",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "подгото́вка к экза́мену",
+    "back": "試験対策\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0014",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "試験対策",
+    "back": "подгото́вка к экза́мену\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0015",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：試験対策",
+    "back": "подгото́вка к экза́мену\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0016",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で подгото́вка к экза́мену が出たら？",
+    "back": "試験対策\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0017",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "слова́рный запа́с",
+    "back": "語彙力\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0018",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "語彙力",
+    "back": "слова́рный запа́с\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0019",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：語彙力",
+    "back": "слова́рный запа́с\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0020",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で слова́рный запа́с が出たら？",
+    "back": "語彙力\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0021",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "у́стный отве́т",
+    "back": "口頭回答\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0022",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "口頭回答",
+    "back": "у́стный отве́т\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0023",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：口頭回答",
+    "back": "у́стный отве́т\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0024",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で у́стный отве́т が出たら？",
+    "back": "口頭回答\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0025",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "письме́нная рабо́та",
+    "back": "筆記課題\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0026",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "筆記課題",
+    "back": "письме́нная рабо́та\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0027",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：筆記課題",
+    "back": "письме́нная рабо́та\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0028",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で письме́нная рабо́та が出たら？",
+    "back": "筆記課題\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0029",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "самообразова́ние",
+    "back": "独学\n\nテーマ：教育\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0030",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "独学",
+    "back": "самообразова́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-compword-0031",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：独学",
+    "back": "самообразова́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-readword-0032",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で самообразова́ние が出たら？",
+    "back": "独学\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0033",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "ста́рение населе́ния",
+    "back": "人口高齢化\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0034",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "人口高齢化",
+    "back": "ста́рение населе́ния\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0035",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：人口高齢化",
+    "back": "ста́рение населе́ния\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0036",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で ста́рение населе́ния が出たら？",
+    "back": "人口高齢化\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0037",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "рожда́емость",
+    "back": "出生率\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0038",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "出生率",
+    "back": "рожда́емость\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0039",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：出生率",
+    "back": "рожда́емость\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0040",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で рожда́емость が出たら？",
+    "back": "出生率\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0041",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "сме́ртность",
+    "back": "死亡率\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0042",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "死亡率",
+    "back": "сме́ртность\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0043",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：死亡率",
+    "back": "сме́ртность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0044",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で сме́ртность が出たら？",
+    "back": "死亡率\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0045",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "трудовы́е ресу́рсы",
+    "back": "労働力\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0046",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "労働力",
+    "back": "трудовы́е ресу́рсы\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0047",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：労働力",
+    "back": "трудовы́е ресу́рсы\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0048",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で трудовы́е ресу́рсы が出たら？",
+    "back": "労働力\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0049",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "ме́стное соо́бщество",
+    "back": "地域社会\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0050",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "地域社会",
+    "back": "ме́стное соо́бщество\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0051",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：地域社会",
+    "back": "ме́стное соо́бщество\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0052",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で ме́стное соо́бщество が出たら？",
+    "back": "地域社会\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0053",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "поколе́ние",
+    "back": "世代\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0054",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "世代",
+    "back": "поколе́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0055",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：世代",
+    "back": "поколе́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0056",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で поколе́ние が出たら？",
+    "back": "世代\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0057",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "молодёжь",
+    "back": "若者\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0058",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "若者",
+    "back": "молодёжь\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0059",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：若者",
+    "back": "молодёжь\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0060",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で молодёжь が出たら？",
+    "back": "若者\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0061",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "пожило́й челове́к",
+    "back": "高齢者\n\nテーマ：社会\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0062",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "高齢者",
+    "back": "пожило́й челове́к\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-compword-0063",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：高齢者",
+    "back": "пожило́й челове́к\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-readword-0064",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で пожило́й челове́к が出たら？",
+    "back": "高齢者\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0065",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "охра́на приро́ды",
+    "back": "自然保護\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0066",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "自然保護",
+    "back": "охра́на приро́ды\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0067",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：自然保護",
+    "back": "охра́на приро́ды\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0068",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で охра́на приро́ды が出たら？",
+    "back": "自然保護\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0069",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "загрязне́ние во́здуха",
+    "back": "大気汚染\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0070",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "大気汚染",
+    "back": "загрязне́ние во́здуха\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0071",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：大気汚染",
+    "back": "загрязне́ние во́здуха\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0072",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で загрязне́ние во́здуха が出たら？",
+    "back": "大気汚染\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0073",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "промы́шленные отхо́ды",
+    "back": "工業廃棄物\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0074",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "工業廃棄物",
+    "back": "промы́шленные отхо́ды\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0075",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：工業廃棄物",
+    "back": "промы́шленные отхо́ды\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0076",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で промы́шленные отхо́ды が出たら？",
+    "back": "工業廃棄物\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0077",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "измене́ние кли́мата",
+    "back": "気候変動\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0078",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "気候変動",
+    "back": "измене́ние кли́мата\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0079",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：気候変動",
+    "back": "измене́ние кли́мата\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0080",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で измене́ние кли́мата が出たら？",
+    "back": "気候変動\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0081",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "землетрясе́ние",
+    "back": "地震\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0082",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "地震",
+    "back": "землетрясе́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0083",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：地震",
+    "back": "землетрясе́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0084",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で землетрясе́ние が出たら？",
+    "back": "地震\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0085",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "наводне́ние",
+    "back": "洪水\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0086",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "洪水",
+    "back": "наводне́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0087",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：洪水",
+    "back": "наводне́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0088",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で наводне́ние が出たら？",
+    "back": "洪水\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0089",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "урожа́й",
+    "back": "収穫\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0090",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "収穫",
+    "back": "урожа́й\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0091",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：収穫",
+    "back": "урожа́й\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0092",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で урожа́й が出たら？",
+    "back": "収穫\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0093",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "плодоро́дная почва",
+    "back": "肥沃な土\n\nテーマ：環境\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0094",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "肥沃な土",
+    "back": "плодоро́дная почва\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-compword-0095",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：肥沃な土",
+    "back": "плодоро́дная почва\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-readword-0096",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で плодоро́дная почва が出たら？",
+    "back": "肥沃な土\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0097",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "здоро́вый о́браз жи́зни",
+    "back": "健康的な生活\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0098",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "健康的な生活",
+    "back": "здоро́вый о́браз жи́зни\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0099",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：健康的な生活",
+    "back": "здоро́вый о́браз жи́зни\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0100",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で здоро́вый о́браз жи́зни が出たら？",
+    "back": "健康的な生活\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0101",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "недосы́пание",
+    "back": "睡眠不足\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0102",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "睡眠不足",
+    "back": "недосы́пание\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0103",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：睡眠不足",
+    "back": "недосы́пание\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0104",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で недосы́пание が出たら？",
+    "back": "睡眠不足\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0105",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "переутомле́ние",
+    "back": "過労\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0106",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "過労",
+    "back": "переутомле́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0107",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：過労",
+    "back": "переутомле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0108",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で переутомле́ние が出たら？",
+    "back": "過労\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0109",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "восстано́вление сил",
+    "back": "体力回復\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0110",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "体力回復",
+    "back": "восстано́вление сил\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0111",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：体力回復",
+    "back": "восстано́вление сил\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0112",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で восстано́вление сил が出たら？",
+    "back": "体力回復\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0113",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "сиде́чий о́браз жи́зни",
+    "back": "座りがちな生活\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0114",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "座りがちな生活",
+    "back": "сиде́чий о́браз жи́зни\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0115",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：座りがちな生活",
+    "back": "сиде́чий о́браз жи́зни\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0116",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で сиде́чий о́браз жи́зни が出たら？",
+    "back": "座りがちな生活\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0117",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "кровообраще́ние",
+    "back": "血液循環\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0118",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "血液循環",
+    "back": "кровообраще́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0119",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：血液循環",
+    "back": "кровообраще́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0120",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で кровообраще́ние が出たら？",
+    "back": "血液循環\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0121",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "режи́м дня",
+    "back": "生活リズム\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0122",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "生活リズム",
+    "back": "режи́м дня\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0123",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：生活リズム",
+    "back": "режи́м дня\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0124",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で режи́м дня が出たら？",
+    "back": "生活リズム\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0125",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "пита́ться пра́вильно",
+    "back": "正しく食事する\n\nテーマ：健康\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0126",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "正しく食事する",
+    "back": "пита́ться пра́вильно\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-compword-0127",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：正しく食事する",
+    "back": "пита́ться пра́вильно\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-readword-0128",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で пита́ться пра́вильно が出たら？",
+    "back": "正しく食事する\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0129",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "бума́жная кни́га",
+    "back": "紙の本\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0130",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "紙の本",
+    "back": "бума́жная кни́га\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0131",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：紙の本",
+    "back": "бума́жная кни́га\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0132",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で бума́жная кни́га が出たら？",
+    "back": "紙の本\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0133",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "электро́нная кни́га",
+    "back": "電子書籍\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0134",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "電子書籍",
+    "back": "электро́нная кни́га\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0135",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：電子書籍",
+    "back": "электро́нная кни́га\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0136",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で электро́нная кни́га が出たら？",
+    "back": "電子書籍\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0137",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "вырази́тельность",
+    "back": "表現力\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0138",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "表現力",
+    "back": "вырази́тельность\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0139",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：表現力",
+    "back": "вырази́тельность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0140",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で вырази́тельность が出たら？",
+    "back": "表現力\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0141",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "музыка́льное исполне́ние",
+    "back": "音楽演奏\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0142",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "音楽演奏",
+    "back": "музыка́льное исполне́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0143",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：音楽演奏",
+    "back": "музыка́льное исполне́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0144",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で музыка́льное исполне́ние が出たら？",
+    "back": "音楽演奏\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0145",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "впечатле́ние",
+    "back": "印象\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0146",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "印象",
+    "back": "впечатле́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0147",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：印象",
+    "back": "впечатле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0148",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で впечатле́ние が出たら？",
+    "back": "印象\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0149",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "неви́димая нить",
+    "back": "見えない糸\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0150",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "見えない糸",
+    "back": "неви́димая нить\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0151",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：見えない糸",
+    "back": "неви́димая нить\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0152",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で неви́димая нить が出たら？",
+    "back": "見えない糸\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0153",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "свя́зывать люде́й",
+    "back": "人々を結びつける\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0154",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "人々を結びつける",
+    "back": "свя́зывать люде́й\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0155",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：人々を結びつける",
+    "back": "свя́зывать люде́й\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0156",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で свя́зывать люде́й が出たら？",
+    "back": "人々を結びつける\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0157",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "культу́рная тради́ция",
+    "back": "文化的伝統\n\nテーマ：文化\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0158",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "文化的伝統",
+    "back": "культу́рная тради́ция\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-compword-0159",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：文化的伝統",
+    "back": "культу́рная тради́ция\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-readword-0160",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で культу́рная тради́ция が出たら？",
+    "back": "文化的伝統\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0161",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "иностра́нный тури́ст",
+    "back": "外国人観光客\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0162",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "外国人観光客",
+    "back": "иностра́нный тури́ст\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0163",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：外国人観光客",
+    "back": "иностра́нный тури́ст\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0164",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で иностра́нный тури́ст が出たら？",
+    "back": "外国人観光客\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0165",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "чре́змерный тури́зм",
+    "back": "オーバーツーリズム\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0166",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "オーバーツーリズム",
+    "back": "чре́змерный тури́зм\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0167",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：オーバーツーリズム",
+    "back": "чре́змерный тури́зм\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0168",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で чре́змерный тури́зм が出たら？",
+    "back": "オーバーツーリズム\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0169",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "достопримеча́тельность",
+    "back": "名所\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0170",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "名所",
+    "back": "достопримеча́тельность\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0171",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：名所",
+    "back": "достопримеча́тельность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0172",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で достопримеча́тельность が出たら？",
+    "back": "名所\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0173",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "ме́стные жи́тели",
+    "back": "地元住民\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0174",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "地元住民",
+    "back": "ме́стные жи́тели\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0175",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：地元住民",
+    "back": "ме́стные жи́тели\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0176",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で ме́стные жи́тели が出たら？",
+    "back": "地元住民\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0177",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "показа́ть доро́гу",
+    "back": "道を教える\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0178",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "道を教える",
+    "back": "показа́ть доро́гу\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0179",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：道を教える",
+    "back": "показа́ть доро́гу\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0180",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で показа́ть доро́гу が出たら？",
+    "back": "道を教える\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0181",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "заброни́ровать гости́ницу",
+    "back": "ホテルを予約する\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0182",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "ホテルを予約する",
+    "back": "заброни́ровать гости́ницу\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0183",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：ホテルを予約する",
+    "back": "заброни́ровать гости́ницу\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0184",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で заброни́ровать гости́ницу が出たら？",
+    "back": "ホテルを予約する\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0185",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "путеше́ствовать на по́езде",
+    "back": "列車で旅する\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0186",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "列車で旅する",
+    "back": "путеше́ствовать на по́езде\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0187",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：列車で旅する",
+    "back": "путеше́ствовать на по́езде\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0188",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で путеше́ствовать на по́езде が出たら？",
+    "back": "列車で旅する\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0189",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "прия́тное воспомина́ние",
+    "back": "良い思い出\n\nテーマ：旅行\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0190",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "良い思い出",
+    "back": "прия́тное воспомина́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-compword-0191",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：良い思い出",
+    "back": "прия́тное воспомина́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-readword-0192",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で прия́тное воспомина́ние が出たら？",
+    "back": "良い思い出\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0193",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "иску́сственный интелле́кт",
+    "back": "人工知能\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0194",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "人工知能",
+    "back": "иску́сственный интелле́кт\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0195",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：人工知能",
+    "back": "иску́сственный интелле́кт\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0196",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で иску́сственный интелле́кт が出たら？",
+    "back": "人工知能\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0197",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "моби́льное устро́йство",
+    "back": "モバイル端末\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0198",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "モバイル端末",
+    "back": "моби́льное устро́йство\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0199",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：モバイル端末",
+    "back": "моби́льное устро́йство\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0200",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で моби́льное устро́йство が出たら？",
+    "back": "モバイル端末\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0201",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "обраба́тывать информа́цию",
+    "back": "情報を処理する\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0202",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "情報を処理する",
+    "back": "обраба́тывать информа́цию\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0203",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：情報を処理する",
+    "back": "обраба́тывать информа́цию\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0204",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で обраба́тывать информа́цию が出たら？",
+    "back": "情報を処理する\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0205",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "сохраня́ть да́нные",
+    "back": "データを保存する\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0206",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "データを保存する",
+    "back": "сохраня́ть да́нные\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0207",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：データを保存する",
+    "back": "сохраня́ть да́нные\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0208",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で сохраня́ть да́нные が出たら？",
+    "back": "データを保存する\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0209",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "совреме́нные техноло́гии",
+    "back": "現代技術\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0210",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "現代技術",
+    "back": "совреме́нные техноло́гии\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0211",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：現代技術",
+    "back": "совреме́нные техноло́гии\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0212",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で совреме́нные техноло́гии が出たら？",
+    "back": "現代技術\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0213",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "техни́ческое разви́тие",
+    "back": "技術発展\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0214",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "技術発展",
+    "back": "техни́ческое разви́тие\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0215",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：技術発展",
+    "back": "техни́ческое разви́тие\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0216",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で техни́ческое разви́тие が出たら？",
+    "back": "技術発展\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0217",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "по́льзоваться прило́жением",
+    "back": "アプリを使う\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0218",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "アプリを使う",
+    "back": "по́льзоваться прило́жением\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0219",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：アプリを使う",
+    "back": "по́льзоваться прило́жением\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0220",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で по́льзоваться прило́жением が出たら？",
+    "back": "アプリを使う\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0221",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "рабо́тать офла́йн",
+    "back": "オフラインで動く\n\nテーマ：技術\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0222",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "オフラインで動く",
+    "back": "рабо́тать офла́йн\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-compword-0223",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：オフラインで動く",
+    "back": "рабо́тать офла́йн\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-readword-0224",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で рабо́тать офла́йн が出たら？",
+    "back": "オフラインで動く\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0225",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "по моему́ мне́нию",
+    "back": "私の意見では\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0226",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "私の意見では",
+    "back": "по моему́ мне́нию\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0227",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：私の意見では",
+    "back": "по моему́ мне́нию\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0228",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で по моему́ мне́нию が出たら？",
+    "back": "私の意見では\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0229",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "на мой взгляд",
+    "back": "私の見方では\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0230",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "私の見方では",
+    "back": "на мой взгляд\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0231",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：私の見方では",
+    "back": "на мой взгляд\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0232",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で на мой взгляд が出たら？",
+    "back": "私の見方では\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0233",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "с друго́й стороны́",
+    "back": "一方で\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0234",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "一方で",
+    "back": "с друго́й стороны́\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0235",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：一方で",
+    "back": "с друго́й стороны́\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0236",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で с друго́й стороны́ が出たら？",
+    "back": "一方で\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0237",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "обраща́ть внима́ние",
+    "back": "注意を向ける\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0238",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "注意を向ける",
+    "back": "обраща́ть внима́ние\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0239",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：注意を向ける",
+    "back": "обраща́ть внима́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0240",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で обраща́ть внима́ние が出たら？",
+    "back": "注意を向ける\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0241",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "счита́ть ва́жным",
+    "back": "重要だと考える\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0242",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "重要だと考える",
+    "back": "счита́ть ва́жным\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0243",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：重要だと考える",
+    "back": "счита́ть ва́жным\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0244",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で счита́ть ва́жным が出たら？",
+    "back": "重要だと考える\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0245",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "сомнева́ться",
+    "back": "疑う／迷う\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0246",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "疑う／迷う",
+    "back": "сомнева́ться\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0247",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：疑う／迷う",
+    "back": "сомнева́ться\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0248",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で сомнева́ться が出たら？",
+    "back": "疑う／迷う\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0249",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "соглаша́ться",
+    "back": "同意する\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0250",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "同意する",
+    "back": "соглаша́ться\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0251",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：同意する",
+    "back": "соглаша́ться\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0252",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で соглаша́ться が出たら？",
+    "back": "同意する\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-rujp-0253",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "2級合格語彙",
+    "front": "возража́ть",
+    "back": "反論する\n\nテーマ：意見\n2級の長文・作文で使う語彙。",
+    "tags": [
+      "2級合格",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-vocab-jpru-0254",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露語彙",
+    "front": "反論する",
+    "back": "возража́ть\n\n日本語からロシア語を出す。",
+    "tags": [
+      "日露",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-compword-0255",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文用語彙",
+    "front": "作文に入れる：反論する",
+    "back": "возража́ть\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "作文",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-readword-0256",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解用語彙",
+    "front": "長文で возража́ть が出たら？",
+    "back": "反論する\n\nまず主語・述語・前置詞句を切る。",
+    "tags": [
+      "読解",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-aspect-0001",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "昨日、私は手紙を最後まで書いた。",
+    "back": "Вчера́ я написа́л письмо́.\n\n理由：完了・結果なので完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0002",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "毎日、私は短い文章を書く。",
+    "back": "Ка́ждый день я пишу́ коро́ткие тексты.\n\n理由：反復なので不完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0003",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "彼はよく天気について話していた。",
+    "back": "Он ча́сто расска́зывал о пого́де.\n\n理由：反復・習慣なので不完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0004",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "彼は昨日その話を全部話した。",
+    "back": "Вчера́ он рассказа́л всю исто́рию.\n\n理由：完了・完結なので完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0005",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "私は試験の準備をしている。",
+    "back": "Я гото́влюсь к экза́мену.\n\n理由：過程なので不完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0006",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "私は試験の準備を終えた。",
+    "back": "Я подгото́вился к экза́мену.\n\n理由：結果なので完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0007",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "彼女はバスに遅れた。",
+    "back": "Она́ опозда́ла на авто́бус.\n\n理由：一回の結果なので完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0008",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "彼女はいつも授業に遅れる。",
+    "back": "Она́ всегда́ опа́здывает на заня́тия.\n\n理由：習慣なので不完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0009",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "私はその単語を覚えた。",
+    "back": "Я запо́мнил э́то сло́во.\n\n理由：結果なので完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0010",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "私は新しい単語を覚えているところだ。",
+    "back": "Я запомина́ю но́вые слова́.\n\n理由：過程なので不完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0011",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "母は窓を開けた。",
+    "back": "Мать откры́ла окно́.\n\n理由：完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-aspect-0012",
+    "level": 2,
+    "category": "verb",
+    "round": null,
+    "section": "体の選択ドリル",
+    "front": "母は窓を開けていた。",
+    "back": "Мать открыва́ла окно́.\n\n理由：過程なので不完了体。",
+    "tags": [
+      "動詞の体",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0001",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "2人の弟",
+    "back": "два мла́дших бра́та\n\nポイント：2・3・4型。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0002",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "3人の有名な作家",
+    "back": "три изве́стных писа́теля\n\nポイント：形容詞・名詞の形に注意。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0003",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "5人の観光客",
+    "back": "пять тури́стов\n\nポイント：5以上は複数生格。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0004",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "2023年に",
+    "back": "в две ты́сячи два́дцать тре́тьем году́\n\nポイント：年は前置格。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0005",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "7月1日から9月10日まで",
+    "back": "с пе́рвого ию́ля до деся́того сентября́\n\nポイント：日付は序数詞。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0006",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "3776メートル",
+    "back": "три ты́сячи семьсо́т семьдеся́т шесть ме́тров\n\nポイント：単位の形に注意。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0007",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "221,000人",
+    "back": "двести́ два́дцать одна́ ты́сяча челове́к\n\nポイント：тысяча の性に注意。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-number-0008",
+    "level": 2,
+    "category": "number",
+    "round": null,
+    "section": "数詞ドリル",
+    "front": "16,800,000人",
+    "back": "шестна́дцать миллио́нов восемьсо́т ты́сяч челове́к\n\nポイント：миллион/тысяча の形。",
+    "tags": [
+      "数詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-part-0001",
+    "level": 2,
+    "category": "participle",
+    "round": null,
+    "section": "形動詞・副動詞変換",
+    "front": "девушка, которая сидит",
+    "back": "сидя́щая де́вушка\n\nポイント：現在能動形動詞。",
+    "tags": [
+      "形動詞",
+      "副動詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-part-0002",
+    "level": 2,
+    "category": "participle",
+    "round": null,
+    "section": "形動詞・副動詞変換",
+    "front": "студент, который вернулся",
+    "back": "верну́вшийся студе́нт\n\nポイント：過去能動形動詞。",
+    "tags": [
+      "形動詞",
+      "副動詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-part-0003",
+    "level": 2,
+    "category": "participle",
+    "round": null,
+    "section": "形動詞・副動詞変換",
+    "front": "книга, которую мне подарили",
+    "back": "пода́ренная мне кни́га\n\nポイント：過去受動形動詞。",
+    "tags": [
+      "形動詞",
+      "副動詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-part-0004",
+    "level": 2,
+    "category": "participle",
+    "round": null,
+    "section": "形動詞・副動詞変換",
+    "front": "Когда я прочитал книгу...",
+    "back": "Прочита́в кни́гу...\n\nポイント：完了体副動詞。",
+    "tags": [
+      "形動詞",
+      "副動詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-part-0005",
+    "level": 2,
+    "category": "participle",
+    "round": null,
+    "section": "形動詞・副動詞変換",
+    "front": "Когда он выходил из дома...",
+    "back": "Выходя́ из до́ма...\n\nポイント：不完了体副動詞。",
+    "tags": [
+      "形動詞",
+      "副動詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-part-0006",
+    "level": 2,
+    "category": "participle",
+    "round": null,
+    "section": "形動詞・副動詞変換",
+    "front": "Когда она училась в школе...",
+    "back": "Уча́сь в шко́ле...\n\nポイント：不完了体副動詞。",
+    "tags": [
+      "形動詞",
+      "副動詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-part-0007",
+    "level": 2,
+    "category": "participle",
+    "round": null,
+    "section": "形動詞・副動詞変換",
+    "front": "Так как он был студентом...",
+    "back": "Бу́дучи студе́нтом...\n\nポイント：будучи の型。",
+    "tags": [
+      "形動詞",
+      "副動詞",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-case-0001",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "格支配ドリル",
+    "front": "私はロシア語に興味がある。",
+    "back": "Я интересу́юсь ру́сским языко́м.\n\nポイント：интересоваться + Т.п.",
+    "tags": [
+      "格支配",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-case-0002",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "格支配ドリル",
+    "front": "私は試験の準備をしている。",
+    "back": "Я гото́влюсь к экза́мену.\n\nポイント：готовиться к + Д.п.",
+    "tags": [
+      "格支配",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-case-0003",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "格支配ドリル",
+    "front": "彼は新しい生活に慣れた。",
+    "back": "Он привы́к к но́вой жи́зни.\n\nポイント：привыкнуть к + Д.п.",
+    "tags": [
+      "格支配",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-case-0004",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "格支配ドリル",
+    "front": "彼女は娘を誇りに思っている。",
+    "back": "Она́ горди́тся до́черью.\n\nポイント：гордиться + Т.п.",
+    "tags": [
+      "格支配",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-case-0005",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "格支配ドリル",
+    "front": "私は友人に助けを頼んだ。",
+    "back": "Я попроси́л дру́га о по́мощи.\n\nポイント：просить + Р.п. о + П.п.",
+    "tags": [
+      "格支配",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-case-0006",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "格支配ドリル",
+    "front": "天気は生活に影響する。",
+    "back": "Пого́да влия́ет на жизнь.\n\nポイント：влиять на + В.п.",
+    "tags": [
+      "格支配",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-case-0007",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "格支配ドリル",
+    "front": "成功は準備に左右される。",
+    "back": "Успе́х зави́сит от подгото́вки.\n\nポイント：зависеть от + Р.п.",
+    "tags": [
+      "格支配",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-expr-0001",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "〜によると",
+    "back": "по слова́м + Р.п. / согла́сно + Д.п.",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0002",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "研究によると",
+    "back": "согла́сно иссле́дованию",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0003",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "専門家は〜と述べている",
+    "back": "специали́ст отмеча́ет, что ...",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0004",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "〜の割合が増えている",
+    "back": "до́ля ... увели́чивается",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0005",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "〜の数が減っている",
+    "back": "число́ ... сокраща́ется",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0006",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "〜が問題になっている",
+    "back": "... станови́тся пробле́мой",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0007",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "〜と比較して",
+    "back": "по сравне́нию с + Т.п.",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0008",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "その結果",
+    "back": "в результа́те",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0009",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "そのため",
+    "back": "поэ́тому / в свя́зи с э́тим",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0010",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "特に",
+    "back": "в осо́бенности / в ча́стности",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-expr-0011",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解・作文接続表現",
+    "front": "つまり",
+    "back": "то есть",
+    "tags": [
+      "露文和訳",
+      "和文露訳",
+      "接続表現"
+    ]
+  },
+  {
+    "id": "pass-oral-0001",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "私の一日",
+    "back": "Обы́чно я ра́но встаю́, рабо́таю или занима́юсь учёбой. Ве́чером я гуля́ю с соба́ками и повторя́ю ру́сские слова́.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-oral-0002",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "私の町",
+    "back": "Я живу́ в небольши́м го́роде. Здесь ти́хо, есть приро́да, и мне удо́бно жить.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-oral-0003",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "私の趣味",
+    "back": "Моё хо́бби — изуче́ние языко́в и рабо́та с компью́тером. Э́то помога́ет мне развива́ться.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-oral-0004",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "旅行について",
+    "back": "Я люблю́ путеше́ствовать, потому́ что мо́жно узнава́ть но́вые места́ и встре́чать разны́х люде́й.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-oral-0005",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "健康について",
+    "back": "Для здоро́вья ва́жно дви́гаться, хорошо́ спать и пра́вильно пита́ться.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-oral-0006",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "外国語学習",
+    "back": "Изуче́ние иностра́нного языка́ тре́бует вре́мени и повторе́ния. Но э́то о́чень поле́зно.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-oral-0007",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "動物について",
+    "back": "Я люблю́ живо́тных, осо́бенно соба́к. Они́ даю́т челове́ку ра́дость и споко́йствие.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-oral-0008",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "口頭作文追加テーマ",
+    "front": "将来の目標",
+    "back": "В бу́дущем я хочу́ улучши́ть ру́сский язы́к и испо́льзовать его́ в рабо́те и учёбе.",
+    "tags": [
+      "口頭作文",
+      "合格ドリル"
+    ]
+  },
+  {
+    "id": "pass-fill-0001",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "教育・学習",
+    "back": "обуче́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0002",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "成績を作文に入れる",
+    "back": "успе́ваемость\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0003",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で уче́бная нагру́зка が出たら？",
+    "back": "学習負担\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0004",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "подгото́вка к экза́мену について考える",
+    "back": "ду́мать о теме «подгото́вка к экза́мену»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0005",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "слова́рный запа́с",
+    "back": "語彙力\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0006",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "口頭回答",
+    "back": "у́стный отве́т\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0007",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "筆記課題を作文に入れる",
+    "back": "письме́нная рабо́та\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0008",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で самообразова́ние が出たら？",
+    "back": "独学\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0009",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ста́рение населе́ния について考える",
+    "back": "ду́мать о теме «ста́рение населе́ния»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0010",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "рожда́емость",
+    "back": "出生率\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0011",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "死亡率",
+    "back": "сме́ртность\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0012",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "労働力を作文に入れる",
+    "back": "трудовы́е ресу́рсы\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0013",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で ме́стное соо́бщество が出たら？",
+    "back": "地域社会\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0014",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "поколе́ние について考える",
+    "back": "ду́мать о теме «поколе́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0015",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "молодёжь",
+    "back": "若者\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0016",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "高齢者",
+    "back": "пожило́й челове́к\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0017",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "自然保護を作文に入れる",
+    "back": "охра́на приро́ды\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0018",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で загрязне́ние во́здуха が出たら？",
+    "back": "大気汚染\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0019",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "промы́шленные отхо́ды について考える",
+    "back": "ду́мать о теме «промы́шленные отхо́ды»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0020",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "измене́ние кли́мата",
+    "back": "気候変動\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0021",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "地震",
+    "back": "землетрясе́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0022",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "洪水を作文に入れる",
+    "back": "наводне́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0023",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で урожа́й が出たら？",
+    "back": "収穫\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0024",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "плодоро́дная почва について考える",
+    "back": "ду́мать о теме «плодоро́дная почва»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0025",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "здоро́вый о́браз жи́зни",
+    "back": "健康的な生活\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0026",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "睡眠不足",
+    "back": "недосы́пание\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0027",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "過労を作文に入れる",
+    "back": "переутомле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0028",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で восстано́вление сил が出たら？",
+    "back": "体力回復\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0029",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сиде́чий о́браз жи́зни について考える",
+    "back": "ду́мать о теме «сиде́чий о́браз жи́зни»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0030",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "кровообраще́ние",
+    "back": "血液循環\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0031",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "生活リズム",
+    "back": "режи́м дня\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0032",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "正しく食事するを作文に入れる",
+    "back": "пита́ться пра́вильно\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0033",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で бума́жная кни́га が出たら？",
+    "back": "紙の本\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0034",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "электро́нная кни́га について考える",
+    "back": "ду́мать о теме «электро́нная кни́га»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0035",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "вырази́тельность",
+    "back": "表現力\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0036",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "音楽演奏",
+    "back": "музыка́льное исполне́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0037",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "印象を作文に入れる",
+    "back": "впечатле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0038",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で неви́димая нить が出たら？",
+    "back": "見えない糸\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0039",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "свя́зывать люде́й について考える",
+    "back": "ду́мать о теме «свя́зывать люде́й»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0040",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "культу́рная тради́ция",
+    "back": "文化的伝統\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0041",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "外国人観光客",
+    "back": "иностра́нный тури́ст\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0042",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "オーバーツーリズムを作文に入れる",
+    "back": "чре́змерный тури́зм\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0043",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で достопримеча́тельность が出たら？",
+    "back": "名所\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0044",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ме́стные жи́тели について考える",
+    "back": "ду́мать о теме «ме́стные жи́тели»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0045",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "показа́ть доро́гу",
+    "back": "道を教える\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0046",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "ホテルを予約する",
+    "back": "заброни́ровать гости́ницу\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0047",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "列車で旅するを作文に入れる",
+    "back": "путеше́ствовать на по́езде\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0048",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で прия́тное воспомина́ние が出たら？",
+    "back": "良い思い出\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0049",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "иску́сственный интелле́кт について考える",
+    "back": "ду́мать о теме «иску́сственный интелле́кт»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0050",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "моби́льное устро́йство",
+    "back": "モバイル端末\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0051",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "情報を処理する",
+    "back": "обраба́тывать информа́цию\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0052",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "データを保存するを作文に入れる",
+    "back": "сохраня́ть да́нные\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0053",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で совреме́нные техноло́гии が出たら？",
+    "back": "現代技術\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0054",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "техни́ческое разви́тие について考える",
+    "back": "ду́мать о теме «техни́ческое разви́тие»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0055",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "по́льзоваться прило́жением",
+    "back": "アプリを使う\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0056",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "オフラインで動く",
+    "back": "рабо́тать офла́йн\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0057",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "私の意見ではを作文に入れる",
+    "back": "по моему́ мне́нию\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0058",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で на мой взгляд が出たら？",
+    "back": "私の見方では\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0059",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "с друго́й стороны́ について考える",
+    "back": "ду́мать о теме «с друго́й стороны́»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0060",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "обраща́ть внима́ние",
+    "back": "注意を向ける\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0061",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "重要だと考える",
+    "back": "счита́ть ва́жным\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0062",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "疑う／迷うを作文に入れる",
+    "back": "сомнева́ться\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0063",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で соглаша́ться が出たら？",
+    "back": "同意する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0064",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "возража́ть について考える",
+    "back": "ду́мать о теме «возража́ть»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0065",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "обуче́ние",
+    "back": "教育・学習\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0066",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "成績",
+    "back": "успе́ваемость\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0067",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "学習負担を作文に入れる",
+    "back": "уче́бная нагру́зка\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0068",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で подгото́вка к экза́мену が出たら？",
+    "back": "試験対策\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0069",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "слова́рный запа́с について考える",
+    "back": "ду́мать о теме «слова́рный запа́с»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0070",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "у́стный отве́т",
+    "back": "口頭回答\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0071",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "筆記課題",
+    "back": "письме́нная рабо́та\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0072",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "独学を作文に入れる",
+    "back": "самообразова́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0073",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で ста́рение населе́ния が出たら？",
+    "back": "人口高齢化\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0074",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "рожда́емость について考える",
+    "back": "ду́мать о теме «рожда́емость»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0075",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сме́ртность",
+    "back": "死亡率\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0076",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "労働力",
+    "back": "трудовы́е ресу́рсы\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0077",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "地域社会を作文に入れる",
+    "back": "ме́стное соо́бщество\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0078",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で поколе́ние が出たら？",
+    "back": "世代\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0079",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "молодёжь について考える",
+    "back": "ду́мать о теме «молодёжь»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0080",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "пожило́й челове́к",
+    "back": "高齢者\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0081",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "自然保護",
+    "back": "охра́на приро́ды\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0082",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "大気汚染を作文に入れる",
+    "back": "загрязне́ние во́здуха\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0083",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で промы́шленные отхо́ды が出たら？",
+    "back": "工業廃棄物\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0084",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "измене́ние кли́мата について考える",
+    "back": "ду́мать о теме «измене́ние кли́мата»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0085",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "землетрясе́ние",
+    "back": "地震\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0086",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "洪水",
+    "back": "наводне́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0087",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "収穫を作文に入れる",
+    "back": "урожа́й\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0088",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で плодоро́дная почва が出たら？",
+    "back": "肥沃な土\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0089",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "здоро́вый о́браз жи́зни について考える",
+    "back": "ду́мать о теме «здоро́вый о́браз жи́зни»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0090",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "недосы́пание",
+    "back": "睡眠不足\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0091",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "過労",
+    "back": "переутомле́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0092",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "体力回復を作文に入れる",
+    "back": "восстано́вление сил\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0093",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сиде́чий о́браз жи́зни が出たら？",
+    "back": "座りがちな生活\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0094",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "кровообраще́ние について考える",
+    "back": "ду́мать о теме «кровообраще́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0095",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "режи́м дня",
+    "back": "生活リズム\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0096",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "正しく食事する",
+    "back": "пита́ться пра́вильно\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0097",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "紙の本を作文に入れる",
+    "back": "бума́жная кни́га\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0098",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で электро́нная кни́га が出たら？",
+    "back": "電子書籍\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0099",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "вырази́тельность について考える",
+    "back": "ду́мать о теме «вырази́тельность»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0100",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "музыка́льное исполне́ние",
+    "back": "音楽演奏\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0101",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "印象",
+    "back": "впечатле́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0102",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "見えない糸を作文に入れる",
+    "back": "неви́димая нить\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0103",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で свя́зывать люде́й が出たら？",
+    "back": "人々を結びつける\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0104",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "культу́рная тради́ция について考える",
+    "back": "ду́мать о теме «культу́рная тради́ция»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0105",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "иностра́нный тури́ст",
+    "back": "外国人観光客\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0106",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "オーバーツーリズム",
+    "back": "чре́змерный тури́зм\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0107",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "名所を作文に入れる",
+    "back": "достопримеча́тельность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0108",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で ме́стные жи́тели が出たら？",
+    "back": "地元住民\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0109",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "показа́ть доро́гу について考える",
+    "back": "ду́мать о теме «показа́ть доро́гу»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0110",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "заброни́ровать гости́ницу",
+    "back": "ホテルを予約する\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0111",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "列車で旅する",
+    "back": "путеше́ствовать на по́езде\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0112",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "良い思い出を作文に入れる",
+    "back": "прия́тное воспомина́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0113",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で иску́сственный интелле́кт が出たら？",
+    "back": "人工知能\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0114",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "моби́льное устро́йство について考える",
+    "back": "ду́мать о теме «моби́льное устро́йство»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0115",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "обраба́тывать информа́цию",
+    "back": "情報を処理する\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0116",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "データを保存する",
+    "back": "сохраня́ть да́нные\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0117",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "現代技術を作文に入れる",
+    "back": "совреме́нные техноло́гии\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0118",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で техни́ческое разви́тие が出たら？",
+    "back": "技術発展\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0119",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "по́льзоваться прило́жением について考える",
+    "back": "ду́мать о теме «по́льзоваться прило́жением»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0120",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "рабо́тать офла́йн",
+    "back": "オフラインで動く\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0121",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "私の意見では",
+    "back": "по моему́ мне́нию\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0122",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "私の見方ではを作文に入れる",
+    "back": "на мой взгляд\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0123",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で с друго́й стороны́ が出たら？",
+    "back": "一方で\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0124",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "обраща́ть внима́ние について考える",
+    "back": "ду́мать о теме «обраща́ть внима́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0125",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "счита́ть ва́жным",
+    "back": "重要だと考える\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0126",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "疑う／迷う",
+    "back": "сомнева́ться\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0127",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "同意するを作文に入れる",
+    "back": "соглаша́ться\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0128",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で возража́ть が出たら？",
+    "back": "反論する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0129",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "обуче́ние について考える",
+    "back": "ду́мать о теме «обуче́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0130",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "успе́ваемость",
+    "back": "成績\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0131",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "学習負担",
+    "back": "уче́бная нагру́зка\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0132",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "試験対策を作文に入れる",
+    "back": "подгото́вка к экза́мену\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0133",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で слова́рный запа́с が出たら？",
+    "back": "語彙力\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0134",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "у́стный отве́т について考える",
+    "back": "ду́мать о теме «у́стный отве́т»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0135",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "письме́нная рабо́та",
+    "back": "筆記課題\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0136",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "独学",
+    "back": "самообразова́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0137",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "人口高齢化を作文に入れる",
+    "back": "ста́рение населе́ния\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0138",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で рожда́емость が出たら？",
+    "back": "出生率\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0139",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сме́ртность について考える",
+    "back": "ду́мать о теме «сме́ртность»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0140",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "трудовы́е ресу́рсы",
+    "back": "労働力\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0141",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "地域社会",
+    "back": "ме́стное соо́бщество\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0142",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "世代を作文に入れる",
+    "back": "поколе́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0143",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で молодёжь が出たら？",
+    "back": "若者\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0144",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "пожило́й челове́к について考える",
+    "back": "ду́мать о теме «пожило́й челове́к»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0145",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "охра́на приро́ды",
+    "back": "自然保護\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0146",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "大気汚染",
+    "back": "загрязне́ние во́здуха\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0147",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "工業廃棄物を作文に入れる",
+    "back": "промы́шленные отхо́ды\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0148",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で измене́ние кли́мата が出たら？",
+    "back": "気候変動\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0149",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "землетрясе́ние について考える",
+    "back": "ду́мать о теме «землетрясе́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0150",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "наводне́ние",
+    "back": "洪水\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0151",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "収穫",
+    "back": "урожа́й\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0152",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "肥沃な土を作文に入れる",
+    "back": "плодоро́дная почва\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0153",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で здоро́вый о́браз жи́зни が出たら？",
+    "back": "健康的な生活\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0154",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "недосы́пание について考える",
+    "back": "ду́мать о теме «недосы́пание»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0155",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "переутомле́ние",
+    "back": "過労\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0156",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "体力回復",
+    "back": "восстано́вление сил\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0157",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "座りがちな生活を作文に入れる",
+    "back": "сиде́чий о́браз жи́зни\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0158",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で кровообраще́ние が出たら？",
+    "back": "血液循環\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0159",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "режи́м дня について考える",
+    "back": "ду́мать о теме «режи́м дня»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0160",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "пита́ться пра́вильно",
+    "back": "正しく食事する\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0161",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "紙の本",
+    "back": "бума́жная кни́га\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0162",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "電子書籍を作文に入れる",
+    "back": "электро́нная кни́га\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0163",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で вырази́тельность が出たら？",
+    "back": "表現力\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0164",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "музыка́льное исполне́ние について考える",
+    "back": "ду́мать о теме «музыка́льное исполне́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0165",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "впечатле́ние",
+    "back": "印象\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0166",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "見えない糸",
+    "back": "неви́димая нить\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0167",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "人々を結びつけるを作文に入れる",
+    "back": "свя́зывать люде́й\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0168",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で культу́рная тради́ция が出たら？",
+    "back": "文化的伝統\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0169",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "иностра́нный тури́ст について考える",
+    "back": "ду́мать о теме «иностра́нный тури́ст»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0170",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "чре́змерный тури́зм",
+    "back": "オーバーツーリズム\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0171",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "名所",
+    "back": "достопримеча́тельность\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0172",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "地元住民を作文に入れる",
+    "back": "ме́стные жи́тели\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0173",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で показа́ть доро́гу が出たら？",
+    "back": "道を教える\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0174",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "заброни́ровать гости́ницу について考える",
+    "back": "ду́мать о теме «заброни́ровать гости́ницу»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0175",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "путеше́ствовать на по́езде",
+    "back": "列車で旅する\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0176",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "良い思い出",
+    "back": "прия́тное воспомина́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0177",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "人工知能を作文に入れる",
+    "back": "иску́сственный интелле́кт\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0178",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で моби́льное устро́йство が出たら？",
+    "back": "モバイル端末\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0179",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "обраба́тывать информа́цию について考える",
+    "back": "ду́мать о теме «обраба́тывать информа́цию»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0180",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сохраня́ть да́нные",
+    "back": "データを保存する\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0181",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "現代技術",
+    "back": "совреме́нные техноло́гии\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0182",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "技術発展を作文に入れる",
+    "back": "техни́ческое разви́тие\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0183",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で по́льзоваться прило́жением が出たら？",
+    "back": "アプリを使う\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0184",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "рабо́тать офла́йн について考える",
+    "back": "ду́мать о теме «рабо́тать офла́йн»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0185",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "по моему́ мне́нию",
+    "back": "私の意見では\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0186",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "私の見方では",
+    "back": "на мой взгляд\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0187",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "一方でを作文に入れる",
+    "back": "с друго́й стороны́\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0188",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で обраща́ть внима́ние が出たら？",
+    "back": "注意を向ける\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0189",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "счита́ть ва́жным について考える",
+    "back": "ду́мать о теме «счита́ть ва́жным»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0190",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сомнева́ться",
+    "back": "疑う／迷う\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0191",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "同意する",
+    "back": "соглаша́ться\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0192",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "反論するを作文に入れる",
+    "back": "возража́ть\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0193",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で обуче́ние が出たら？",
+    "back": "教育・学習\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0194",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "успе́ваемость について考える",
+    "back": "ду́мать о теме «успе́ваемость»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0195",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "уче́бная нагру́зка",
+    "back": "学習負担\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0196",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "試験対策",
+    "back": "подгото́вка к экза́мену\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0197",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "語彙力を作文に入れる",
+    "back": "слова́рный запа́с\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0198",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で у́стный отве́т が出たら？",
+    "back": "口頭回答\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0199",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "письме́нная рабо́та について考える",
+    "back": "ду́мать о теме «письме́нная рабо́та»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0200",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "самообразова́ние",
+    "back": "独学\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0201",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "人口高齢化",
+    "back": "ста́рение населе́ния\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0202",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "出生率を作文に入れる",
+    "back": "рожда́емость\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0203",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сме́ртность が出たら？",
+    "back": "死亡率\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0204",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "трудовы́е ресу́рсы について考える",
+    "back": "ду́мать о теме «трудовы́е ресу́рсы»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0205",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "ме́стное соо́бщество",
+    "back": "地域社会\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0206",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "世代",
+    "back": "поколе́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0207",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "若者を作文に入れる",
+    "back": "молодёжь\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0208",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で пожило́й челове́к が出たら？",
+    "back": "高齢者\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0209",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "охра́на приро́ды について考える",
+    "back": "ду́мать о теме «охра́на приро́ды»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0210",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "загрязне́ние во́здуха",
+    "back": "大気汚染\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0211",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "工業廃棄物",
+    "back": "промы́шленные отхо́ды\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0212",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "気候変動を作文に入れる",
+    "back": "измене́ние кли́мата\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0213",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で землетрясе́ние が出たら？",
+    "back": "地震\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0214",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "наводне́ние について考える",
+    "back": "ду́мать о теме «наводне́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0215",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "урожа́й",
+    "back": "収穫\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0216",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "肥沃な土",
+    "back": "плодоро́дная почва\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0217",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "健康的な生活を作文に入れる",
+    "back": "здоро́вый о́браз жи́зни\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0218",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で недосы́пание が出たら？",
+    "back": "睡眠不足\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0219",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "переутомле́ние について考える",
+    "back": "ду́мать о теме «переутомле́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0220",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "восстано́вление сил",
+    "back": "体力回復\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0221",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "座りがちな生活",
+    "back": "сиде́чий о́браз жи́зни\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0222",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "血液循環を作文に入れる",
+    "back": "кровообраще́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0223",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で режи́м дня が出たら？",
+    "back": "生活リズム\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0224",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "пита́ться пра́вильно について考える",
+    "back": "ду́мать о теме «пита́ться пра́вильно»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0225",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "бума́жная кни́га",
+    "back": "紙の本\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0226",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "電子書籍",
+    "back": "электро́нная кни́га\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0227",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "表現力を作文に入れる",
+    "back": "вырази́тельность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0228",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で музыка́льное исполне́ние が出たら？",
+    "back": "音楽演奏\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0229",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "впечатле́ние について考える",
+    "back": "ду́мать о теме «впечатле́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0230",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "неви́димая нить",
+    "back": "見えない糸\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0231",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "人々を結びつける",
+    "back": "свя́зывать люде́й\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0232",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "文化的伝統を作文に入れる",
+    "back": "культу́рная тради́ция\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0233",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で иностра́нный тури́ст が出たら？",
+    "back": "外国人観光客\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0234",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "чре́змерный тури́зм について考える",
+    "back": "ду́мать о теме «чре́змерный тури́зм»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0235",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "достопримеча́тельность",
+    "back": "名所\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0236",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "地元住民",
+    "back": "ме́стные жи́тели\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0237",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "道を教えるを作文に入れる",
+    "back": "показа́ть доро́гу\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0238",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で заброни́ровать гости́ницу が出たら？",
+    "back": "ホテルを予約する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0239",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "путеше́ствовать на по́езде について考える",
+    "back": "ду́мать о теме «путеше́ствовать на по́езде»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0240",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "прия́тное воспомина́ние",
+    "back": "良い思い出\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0241",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "人工知能",
+    "back": "иску́сственный интелле́кт\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0242",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "モバイル端末を作文に入れる",
+    "back": "моби́льное устро́йство\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0243",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で обраба́тывать информа́цию が出たら？",
+    "back": "情報を処理する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0244",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сохраня́ть да́нные について考える",
+    "back": "ду́мать о теме «сохраня́ть да́нные»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0245",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "совреме́нные техноло́гии",
+    "back": "現代技術\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0246",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "技術発展",
+    "back": "техни́ческое разви́тие\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0247",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "アプリを使うを作文に入れる",
+    "back": "по́льзоваться прило́жением\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0248",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で рабо́тать офла́йн が出たら？",
+    "back": "オフラインで動く\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0249",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "по моему́ мне́нию について考える",
+    "back": "ду́мать о теме «по моему́ мне́нию»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0250",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "на мой взгляд",
+    "back": "私の見方では\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0251",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "一方で",
+    "back": "с друго́й стороны́\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0252",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "注意を向けるを作文に入れる",
+    "back": "обраща́ть внима́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0253",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で счита́ть ва́жным が出たら？",
+    "back": "重要だと考える\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0254",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сомнева́ться について考える",
+    "back": "ду́мать о теме «сомнева́ться»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0255",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "соглаша́ться",
+    "back": "同意する\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0256",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "反論する",
+    "back": "возража́ть\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0257",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "教育・学習を作文に入れる",
+    "back": "обуче́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0258",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で успе́ваемость が出たら？",
+    "back": "成績\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0259",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "уче́бная нагру́зка について考える",
+    "back": "ду́мать о теме «уче́бная нагру́зка»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0260",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "подгото́вка к экза́мену",
+    "back": "試験対策\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0261",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "語彙力",
+    "back": "слова́рный запа́с\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0262",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "口頭回答を作文に入れる",
+    "back": "у́стный отве́т\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0263",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で письме́нная рабо́та が出たら？",
+    "back": "筆記課題\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0264",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "самообразова́ние について考える",
+    "back": "ду́мать о теме «самообразова́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0265",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "ста́рение населе́ния",
+    "back": "人口高齢化\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0266",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "出生率",
+    "back": "рожда́емость\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0267",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "死亡率を作文に入れる",
+    "back": "сме́ртность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0268",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で трудовы́е ресу́рсы が出たら？",
+    "back": "労働力\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0269",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ме́стное соо́бщество について考える",
+    "back": "ду́мать о теме «ме́стное соо́бщество»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0270",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "поколе́ние",
+    "back": "世代\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0271",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "若者",
+    "back": "молодёжь\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0272",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "高齢者を作文に入れる",
+    "back": "пожило́й челове́к\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0273",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で охра́на приро́ды が出たら？",
+    "back": "自然保護\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0274",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "загрязне́ние во́здуха について考える",
+    "back": "ду́мать о теме «загрязне́ние во́здуха»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0275",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "промы́шленные отхо́ды",
+    "back": "工業廃棄物\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0276",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "気候変動",
+    "back": "измене́ние кли́мата\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0277",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "地震を作文に入れる",
+    "back": "землетрясе́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0278",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で наводне́ние が出たら？",
+    "back": "洪水\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0279",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "урожа́й について考える",
+    "back": "ду́мать о теме «урожа́й»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0280",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "плодоро́дная почва",
+    "back": "肥沃な土\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0281",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "健康的な生活",
+    "back": "здоро́вый о́браз жи́зни\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0282",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "睡眠不足を作文に入れる",
+    "back": "недосы́пание\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0283",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で переутомле́ние が出たら？",
+    "back": "過労\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0284",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "восстано́вление сил について考える",
+    "back": "ду́мать о теме «восстано́вление сил»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0285",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сиде́чий о́браз жи́зни",
+    "back": "座りがちな生活\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0286",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "血液循環",
+    "back": "кровообраще́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0287",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "生活リズムを作文に入れる",
+    "back": "режи́м дня\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0288",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で пита́ться пра́вильно が出たら？",
+    "back": "正しく食事する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0289",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "бума́жная кни́га について考える",
+    "back": "ду́мать о теме «бума́жная кни́га»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0290",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "электро́нная кни́га",
+    "back": "電子書籍\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0291",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "表現力",
+    "back": "вырази́тельность\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0292",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "音楽演奏を作文に入れる",
+    "back": "музыка́льное исполне́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0293",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で впечатле́ние が出たら？",
+    "back": "印象\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0294",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "неви́димая нить について考える",
+    "back": "ду́мать о теме «неви́димая нить»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0295",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "свя́зывать люде́й",
+    "back": "人々を結びつける\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0296",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "文化的伝統",
+    "back": "культу́рная тради́ция\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0297",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "外国人観光客を作文に入れる",
+    "back": "иностра́нный тури́ст\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0298",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で чре́змерный тури́зм が出たら？",
+    "back": "オーバーツーリズム\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0299",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "достопримеча́тельность について考える",
+    "back": "ду́мать о теме «достопримеча́тельность»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0300",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "ме́стные жи́тели",
+    "back": "地元住民\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0301",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "道を教える",
+    "back": "показа́ть доро́гу\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0302",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "ホテルを予約するを作文に入れる",
+    "back": "заброни́ровать гости́ницу\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0303",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で путеше́ствовать на по́езде が出たら？",
+    "back": "列車で旅する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0304",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "прия́тное воспомина́ние について考える",
+    "back": "ду́мать о теме «прия́тное воспомина́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0305",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "иску́сственный интелле́кт",
+    "back": "人工知能\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0306",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "モバイル端末",
+    "back": "моби́льное устро́йство\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0307",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "情報を処理するを作文に入れる",
+    "back": "обраба́тывать информа́цию\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0308",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сохраня́ть да́нные が出たら？",
+    "back": "データを保存する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0309",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "совреме́нные техноло́гии について考える",
+    "back": "ду́мать о теме «совреме́нные техноло́гии»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0310",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "техни́ческое разви́тие",
+    "back": "技術発展\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0311",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "アプリを使う",
+    "back": "по́льзоваться прило́жением\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0312",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "オフラインで動くを作文に入れる",
+    "back": "рабо́тать офла́йн\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0313",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で по моему́ мне́нию が出たら？",
+    "back": "私の意見では\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0314",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "на мой взгляд について考える",
+    "back": "ду́мать о теме «на мой взгляд»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0315",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "с друго́й стороны́",
+    "back": "一方で\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0316",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "注意を向ける",
+    "back": "обраща́ть внима́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0317",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "重要だと考えるを作文に入れる",
+    "back": "счита́ть ва́жным\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0318",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сомнева́ться が出たら？",
+    "back": "疑う／迷う\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0319",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "соглаша́ться について考える",
+    "back": "ду́мать о теме «соглаша́ться»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0320",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "возража́ть",
+    "back": "反論する\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0321",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "教育・学習",
+    "back": "обуче́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0322",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "成績を作文に入れる",
+    "back": "успе́ваемость\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0323",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で уче́бная нагру́зка が出たら？",
+    "back": "学習負担\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0324",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "подгото́вка к экза́мену について考える",
+    "back": "ду́мать о теме «подгото́вка к экза́мену»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0325",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "слова́рный запа́с",
+    "back": "語彙力\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0326",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "口頭回答",
+    "back": "у́стный отве́т\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0327",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "筆記課題を作文に入れる",
+    "back": "письме́нная рабо́та\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0328",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で самообразова́ние が出たら？",
+    "back": "独学\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0329",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ста́рение населе́ния について考える",
+    "back": "ду́мать о теме «ста́рение населе́ния»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0330",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "рожда́емость",
+    "back": "出生率\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0331",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "死亡率",
+    "back": "сме́ртность\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0332",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "労働力を作文に入れる",
+    "back": "трудовы́е ресу́рсы\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0333",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で ме́стное соо́бщество が出たら？",
+    "back": "地域社会\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0334",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "поколе́ние について考える",
+    "back": "ду́мать о теме «поколе́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0335",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "молодёжь",
+    "back": "若者\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0336",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "高齢者",
+    "back": "пожило́й челове́к\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0337",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "自然保護を作文に入れる",
+    "back": "охра́на приро́ды\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0338",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で загрязне́ние во́здуха が出たら？",
+    "back": "大気汚染\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0339",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "промы́шленные отхо́ды について考える",
+    "back": "ду́мать о теме «промы́шленные отхо́ды»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0340",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "измене́ние кли́мата",
+    "back": "気候変動\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0341",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "地震",
+    "back": "землетрясе́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0342",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "洪水を作文に入れる",
+    "back": "наводне́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0343",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で урожа́й が出たら？",
+    "back": "収穫\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0344",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "плодоро́дная почва について考える",
+    "back": "ду́мать о теме «плодоро́дная почва»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0345",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "здоро́вый о́браз жи́зни",
+    "back": "健康的な生活\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0346",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "睡眠不足",
+    "back": "недосы́пание\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0347",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "過労を作文に入れる",
+    "back": "переутомле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0348",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で восстано́вление сил が出たら？",
+    "back": "体力回復\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0349",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сиде́чий о́браз жи́зни について考える",
+    "back": "ду́мать о теме «сиде́чий о́браз жи́зни»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0350",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "кровообраще́ние",
+    "back": "血液循環\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0351",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "生活リズム",
+    "back": "режи́м дня\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0352",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "正しく食事するを作文に入れる",
+    "back": "пита́ться пра́вильно\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0353",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で бума́жная кни́га が出たら？",
+    "back": "紙の本\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0354",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "электро́нная кни́га について考える",
+    "back": "ду́мать о теме «электро́нная кни́га»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0355",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "вырази́тельность",
+    "back": "表現力\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0356",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "音楽演奏",
+    "back": "музыка́льное исполне́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0357",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "印象を作文に入れる",
+    "back": "впечатле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0358",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で неви́димая нить が出たら？",
+    "back": "見えない糸\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0359",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "свя́зывать люде́й について考える",
+    "back": "ду́мать о теме «свя́зывать люде́й»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0360",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "культу́рная тради́ция",
+    "back": "文化的伝統\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0361",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "外国人観光客",
+    "back": "иностра́нный тури́ст\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0362",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "オーバーツーリズムを作文に入れる",
+    "back": "чре́змерный тури́зм\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0363",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で достопримеча́тельность が出たら？",
+    "back": "名所\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0364",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ме́стные жи́тели について考える",
+    "back": "ду́мать о теме «ме́стные жи́тели»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0365",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "показа́ть доро́гу",
+    "back": "道を教える\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0366",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "ホテルを予約する",
+    "back": "заброни́ровать гости́ницу\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0367",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "列車で旅するを作文に入れる",
+    "back": "путеше́ствовать на по́езде\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0368",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で прия́тное воспомина́ние が出たら？",
+    "back": "良い思い出\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0369",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "иску́сственный интелле́кт について考える",
+    "back": "ду́мать о теме «иску́сственный интелле́кт»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0370",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "моби́льное устро́йство",
+    "back": "モバイル端末\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0371",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "情報を処理する",
+    "back": "обраба́тывать информа́цию\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0372",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "データを保存するを作文に入れる",
+    "back": "сохраня́ть да́нные\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0373",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で совреме́нные техноло́гии が出たら？",
+    "back": "現代技術\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0374",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "техни́ческое разви́тие について考える",
+    "back": "ду́мать о теме «техни́ческое разви́тие»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0375",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "по́льзоваться прило́жением",
+    "back": "アプリを使う\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0376",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "オフラインで動く",
+    "back": "рабо́тать офла́йн\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0377",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "私の意見ではを作文に入れる",
+    "back": "по моему́ мне́нию\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0378",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で на мой взгляд が出たら？",
+    "back": "私の見方では\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0379",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "с друго́й стороны́ について考える",
+    "back": "ду́мать о теме «с друго́й стороны́»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0380",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "обраща́ть внима́ние",
+    "back": "注意を向ける\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0381",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "重要だと考える",
+    "back": "счита́ть ва́жным\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0382",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "疑う／迷うを作文に入れる",
+    "back": "сомнева́ться\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0383",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で соглаша́ться が出たら？",
+    "back": "同意する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0384",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "возража́ть について考える",
+    "back": "ду́мать о теме «возража́ть»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0385",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "обуче́ние",
+    "back": "教育・学習\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0386",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "成績",
+    "back": "успе́ваемость\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0387",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "学習負担を作文に入れる",
+    "back": "уче́бная нагру́зка\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0388",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で подгото́вка к экза́мену が出たら？",
+    "back": "試験対策\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0389",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "слова́рный запа́с について考える",
+    "back": "ду́мать о теме «слова́рный запа́с»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0390",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "у́стный отве́т",
+    "back": "口頭回答\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0391",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "筆記課題",
+    "back": "письме́нная рабо́та\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0392",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "独学を作文に入れる",
+    "back": "самообразова́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0393",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で ста́рение населе́ния が出たら？",
+    "back": "人口高齢化\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0394",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "рожда́емость について考える",
+    "back": "ду́мать о теме «рожда́емость»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0395",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сме́ртность",
+    "back": "死亡率\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0396",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "労働力",
+    "back": "трудовы́е ресу́рсы\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0397",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "地域社会を作文に入れる",
+    "back": "ме́стное соо́бщество\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0398",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で поколе́ние が出たら？",
+    "back": "世代\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0399",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "молодёжь について考える",
+    "back": "ду́мать о теме «молодёжь»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0400",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "пожило́й челове́к",
+    "back": "高齢者\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0401",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "自然保護",
+    "back": "охра́на приро́ды\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0402",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "大気汚染を作文に入れる",
+    "back": "загрязне́ние во́здуха\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0403",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で промы́шленные отхо́ды が出たら？",
+    "back": "工業廃棄物\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0404",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "измене́ние кли́мата について考える",
+    "back": "ду́мать о теме «измене́ние кли́мата»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0405",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "землетрясе́ние",
+    "back": "地震\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0406",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "洪水",
+    "back": "наводне́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0407",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "収穫を作文に入れる",
+    "back": "урожа́й\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0408",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で плодоро́дная почва が出たら？",
+    "back": "肥沃な土\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0409",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "здоро́вый о́браз жи́зни について考える",
+    "back": "ду́мать о теме «здоро́вый о́браз жи́зни»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0410",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "недосы́пание",
+    "back": "睡眠不足\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0411",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "過労",
+    "back": "переутомле́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0412",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "体力回復を作文に入れる",
+    "back": "восстано́вление сил\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0413",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сиде́чий о́браз жи́зни が出たら？",
+    "back": "座りがちな生活\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0414",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "кровообраще́ние について考える",
+    "back": "ду́мать о теме «кровообраще́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0415",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "режи́м дня",
+    "back": "生活リズム\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0416",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "正しく食事する",
+    "back": "пита́ться пра́вильно\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0417",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "紙の本を作文に入れる",
+    "back": "бума́жная кни́га\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0418",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で электро́нная кни́га が出たら？",
+    "back": "電子書籍\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0419",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "вырази́тельность について考える",
+    "back": "ду́мать о теме «вырази́тельность»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0420",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "музыка́льное исполне́ние",
+    "back": "音楽演奏\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0421",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "印象",
+    "back": "впечатле́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0422",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "見えない糸を作文に入れる",
+    "back": "неви́димая нить\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0423",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で свя́зывать люде́й が出たら？",
+    "back": "人々を結びつける\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0424",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "культу́рная тради́ция について考える",
+    "back": "ду́мать о теме «культу́рная тради́ция»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0425",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "иностра́нный тури́ст",
+    "back": "外国人観光客\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0426",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "オーバーツーリズム",
+    "back": "чре́змерный тури́зм\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0427",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "名所を作文に入れる",
+    "back": "достопримеча́тельность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0428",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で ме́стные жи́тели が出たら？",
+    "back": "地元住民\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0429",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "показа́ть доро́гу について考える",
+    "back": "ду́мать о теме «показа́ть доро́гу»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0430",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "заброни́ровать гости́ницу",
+    "back": "ホテルを予約する\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0431",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "列車で旅する",
+    "back": "путеше́ствовать на по́езде\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0432",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "良い思い出を作文に入れる",
+    "back": "прия́тное воспомина́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0433",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で иску́сственный интелле́кт が出たら？",
+    "back": "人工知能\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0434",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "моби́льное устро́йство について考える",
+    "back": "ду́мать о теме «моби́льное устро́йство»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0435",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "обраба́тывать информа́цию",
+    "back": "情報を処理する\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0436",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "データを保存する",
+    "back": "сохраня́ть да́нные\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0437",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "現代技術を作文に入れる",
+    "back": "совреме́нные техноло́гии\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0438",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で техни́ческое разви́тие が出たら？",
+    "back": "技術発展\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0439",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "по́льзоваться прило́жением について考える",
+    "back": "ду́мать о теме «по́льзоваться прило́жением»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0440",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "рабо́тать офла́йн",
+    "back": "オフラインで動く\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0441",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "私の意見では",
+    "back": "по моему́ мне́нию\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0442",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "私の見方ではを作文に入れる",
+    "back": "на мой взгляд\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0443",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で с друго́й стороны́ が出たら？",
+    "back": "一方で\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0444",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "обраща́ть внима́ние について考える",
+    "back": "ду́мать о теме «обраща́ть внима́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0445",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "счита́ть ва́жным",
+    "back": "重要だと考える\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0446",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "疑う／迷う",
+    "back": "сомнева́ться\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0447",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "同意するを作文に入れる",
+    "back": "соглаша́ться\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0448",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で возража́ть が出たら？",
+    "back": "反論する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0449",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "обуче́ние について考える",
+    "back": "ду́мать о теме «обуче́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0450",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "успе́ваемость",
+    "back": "成績\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0451",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "学習負担",
+    "back": "уче́бная нагру́зка\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0452",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "試験対策を作文に入れる",
+    "back": "подгото́вка к экза́мену\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0453",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で слова́рный запа́с が出たら？",
+    "back": "語彙力\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0454",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "у́стный отве́т について考える",
+    "back": "ду́мать о теме «у́стный отве́т»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0455",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "письме́нная рабо́та",
+    "back": "筆記課題\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0456",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "独学",
+    "back": "самообразова́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0457",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "人口高齢化を作文に入れる",
+    "back": "ста́рение населе́ния\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0458",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で рожда́емость が出たら？",
+    "back": "出生率\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0459",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сме́ртность について考える",
+    "back": "ду́мать о теме «сме́ртность»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0460",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "трудовы́е ресу́рсы",
+    "back": "労働力\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0461",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "地域社会",
+    "back": "ме́стное соо́бщество\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0462",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "世代を作文に入れる",
+    "back": "поколе́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0463",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で молодёжь が出たら？",
+    "back": "若者\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0464",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "пожило́й челове́к について考える",
+    "back": "ду́мать о теме «пожило́й челове́к»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0465",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "охра́на приро́ды",
+    "back": "自然保護\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0466",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "大気汚染",
+    "back": "загрязне́ние во́здуха\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0467",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "工業廃棄物を作文に入れる",
+    "back": "промы́шленные отхо́ды\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0468",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で измене́ние кли́мата が出たら？",
+    "back": "気候変動\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0469",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "землетрясе́ние について考える",
+    "back": "ду́мать о теме «землетрясе́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0470",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "наводне́ние",
+    "back": "洪水\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0471",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "収穫",
+    "back": "урожа́й\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0472",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "肥沃な土を作文に入れる",
+    "back": "плодоро́дная почва\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0473",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で здоро́вый о́браз жи́зни が出たら？",
+    "back": "健康的な生活\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0474",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "недосы́пание について考える",
+    "back": "ду́мать о теме «недосы́пание»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0475",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "переутомле́ние",
+    "back": "過労\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0476",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "体力回復",
+    "back": "восстано́вление сил\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0477",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "座りがちな生活を作文に入れる",
+    "back": "сиде́чий о́браз жи́зни\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0478",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で кровообраще́ние が出たら？",
+    "back": "血液循環\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0479",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "режи́м дня について考える",
+    "back": "ду́мать о теме «режи́м дня»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0480",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "пита́ться пра́вильно",
+    "back": "正しく食事する\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0481",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "紙の本",
+    "back": "бума́жная кни́га\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0482",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "電子書籍を作文に入れる",
+    "back": "электро́нная кни́га\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0483",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で вырази́тельность が出たら？",
+    "back": "表現力\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0484",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "музыка́льное исполне́ние について考える",
+    "back": "ду́мать о теме «музыка́льное исполне́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0485",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "впечатле́ние",
+    "back": "印象\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0486",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "見えない糸",
+    "back": "неви́димая нить\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0487",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "人々を結びつけるを作文に入れる",
+    "back": "свя́зывать люде́й\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0488",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で культу́рная тради́ция が出たら？",
+    "back": "文化的伝統\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0489",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "иностра́нный тури́ст について考える",
+    "back": "ду́мать о теме «иностра́нный тури́ст»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0490",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "чре́змерный тури́зм",
+    "back": "オーバーツーリズム\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0491",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "名所",
+    "back": "достопримеча́тельность\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0492",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "地元住民を作文に入れる",
+    "back": "ме́стные жи́тели\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0493",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で показа́ть доро́гу が出たら？",
+    "back": "道を教える\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0494",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "заброни́ровать гости́ницу について考える",
+    "back": "ду́мать о теме «заброни́ровать гости́ницу»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0495",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "путеше́ствовать на по́езде",
+    "back": "列車で旅する\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0496",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "良い思い出",
+    "back": "прия́тное воспомина́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0497",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "人工知能を作文に入れる",
+    "back": "иску́сственный интелле́кт\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0498",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で моби́льное устро́йство が出たら？",
+    "back": "モバイル端末\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0499",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "обраба́тывать информа́цию について考える",
+    "back": "ду́мать о теме «обраба́тывать информа́цию»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0500",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сохраня́ть да́нные",
+    "back": "データを保存する\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0501",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "現代技術",
+    "back": "совреме́нные техноло́гии\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0502",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "技術発展を作文に入れる",
+    "back": "техни́ческое разви́тие\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0503",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で по́льзоваться прило́жением が出たら？",
+    "back": "アプリを使う\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0504",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "рабо́тать офла́йн について考える",
+    "back": "ду́мать о теме «рабо́тать офла́йн»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0505",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "по моему́ мне́нию",
+    "back": "私の意見では\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0506",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "私の見方では",
+    "back": "на мой взгляд\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0507",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "一方でを作文に入れる",
+    "back": "с друго́й стороны́\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0508",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で обраща́ть внима́ние が出たら？",
+    "back": "注意を向ける\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0509",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "счита́ть ва́жным について考える",
+    "back": "ду́мать о теме «счита́ть ва́жным»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0510",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сомнева́ться",
+    "back": "疑う／迷う\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0511",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "同意する",
+    "back": "соглаша́ться\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0512",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "反論するを作文に入れる",
+    "back": "возража́ть\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0513",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で обуче́ние が出たら？",
+    "back": "教育・学習\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0514",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "успе́ваемость について考える",
+    "back": "ду́мать о теме «успе́ваемость»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0515",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "уче́бная нагру́зка",
+    "back": "学習負担\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0516",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "試験対策",
+    "back": "подгото́вка к экза́мену\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0517",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "語彙力を作文に入れる",
+    "back": "слова́рный запа́с\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0518",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で у́стный отве́т が出たら？",
+    "back": "口頭回答\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0519",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "письме́нная рабо́та について考える",
+    "back": "ду́мать о теме «письме́нная рабо́та»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0520",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "самообразова́ние",
+    "back": "独学\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0521",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "人口高齢化",
+    "back": "ста́рение населе́ния\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0522",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "出生率を作文に入れる",
+    "back": "рожда́емость\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0523",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сме́ртность が出たら？",
+    "back": "死亡率\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0524",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "трудовы́е ресу́рсы について考える",
+    "back": "ду́мать о теме «трудовы́е ресу́рсы»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0525",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "ме́стное соо́бщество",
+    "back": "地域社会\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0526",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "世代",
+    "back": "поколе́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0527",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "若者を作文に入れる",
+    "back": "молодёжь\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0528",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で пожило́й челове́к が出たら？",
+    "back": "高齢者\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0529",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "охра́на приро́ды について考える",
+    "back": "ду́мать о теме «охра́на приро́ды»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0530",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "загрязне́ние во́здуха",
+    "back": "大気汚染\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0531",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "工業廃棄物",
+    "back": "промы́шленные отхо́ды\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0532",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "気候変動を作文に入れる",
+    "back": "измене́ние кли́мата\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0533",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で землетрясе́ние が出たら？",
+    "back": "地震\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0534",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "наводне́ние について考える",
+    "back": "ду́мать о теме «наводне́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0535",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "урожа́й",
+    "back": "収穫\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0536",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "肥沃な土",
+    "back": "плодоро́дная почва\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0537",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "健康的な生活を作文に入れる",
+    "back": "здоро́вый о́браз жи́зни\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0538",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で недосы́пание が出たら？",
+    "back": "睡眠不足\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0539",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "переутомле́ние について考える",
+    "back": "ду́мать о теме «переутомле́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0540",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "восстано́вление сил",
+    "back": "体力回復\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0541",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "座りがちな生活",
+    "back": "сиде́чий о́браз жи́зни\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0542",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "血液循環を作文に入れる",
+    "back": "кровообраще́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0543",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で режи́м дня が出たら？",
+    "back": "生活リズム\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0544",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "пита́ться пра́вильно について考える",
+    "back": "ду́мать о теме «пита́ться пра́вильно»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0545",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "бума́жная кни́га",
+    "back": "紙の本\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0546",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "電子書籍",
+    "back": "электро́нная кни́га\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0547",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "表現力を作文に入れる",
+    "back": "вырази́тельность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0548",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で музыка́льное исполне́ние が出たら？",
+    "back": "音楽演奏\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0549",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "впечатле́ние について考える",
+    "back": "ду́мать о теме «впечатле́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0550",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "неви́димая нить",
+    "back": "見えない糸\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0551",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "人々を結びつける",
+    "back": "свя́зывать люде́й\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0552",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "文化的伝統を作文に入れる",
+    "back": "культу́рная тради́ция\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0553",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で иностра́нный тури́ст が出たら？",
+    "back": "外国人観光客\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0554",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "чре́змерный тури́зм について考える",
+    "back": "ду́мать о теме «чре́змерный тури́зм»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0555",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "достопримеча́тельность",
+    "back": "名所\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0556",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "地元住民",
+    "back": "ме́стные жи́тели\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0557",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "道を教えるを作文に入れる",
+    "back": "показа́ть доро́гу\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0558",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で заброни́ровать гости́ницу が出たら？",
+    "back": "ホテルを予約する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0559",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "путеше́ствовать на по́езде について考える",
+    "back": "ду́мать о теме «путеше́ствовать на по́езде»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0560",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "прия́тное воспомина́ние",
+    "back": "良い思い出\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0561",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "人工知能",
+    "back": "иску́сственный интелле́кт\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0562",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "モバイル端末を作文に入れる",
+    "back": "моби́льное устро́йство\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0563",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で обраба́тывать информа́цию が出たら？",
+    "back": "情報を処理する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0564",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сохраня́ть да́нные について考える",
+    "back": "ду́мать о теме «сохраня́ть да́нные»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0565",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "совреме́нные техноло́гии",
+    "back": "現代技術\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0566",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "技術発展",
+    "back": "техни́ческое разви́тие\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0567",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "アプリを使うを作文に入れる",
+    "back": "по́льзоваться прило́жением\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0568",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で рабо́тать офла́йн が出たら？",
+    "back": "オフラインで動く\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0569",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "по моему́ мне́нию について考える",
+    "back": "ду́мать о теме «по моему́ мне́нию»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0570",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "на мой взгляд",
+    "back": "私の見方では\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0571",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "一方で",
+    "back": "с друго́й стороны́\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0572",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "注意を向けるを作文に入れる",
+    "back": "обраща́ть внима́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0573",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で счита́ть ва́жным が出たら？",
+    "back": "重要だと考える\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0574",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сомнева́ться について考える",
+    "back": "ду́мать о теме «сомнева́ться»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0575",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "соглаша́ться",
+    "back": "同意する\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0576",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "反論する",
+    "back": "возража́ть\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0577",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "教育・学習を作文に入れる",
+    "back": "обуче́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0578",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で успе́ваемость が出たら？",
+    "back": "成績\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0579",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "уче́бная нагру́зка について考える",
+    "back": "ду́мать о теме «уче́бная нагру́зка»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0580",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "подгото́вка к экза́мену",
+    "back": "試験対策\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0581",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "語彙力",
+    "back": "слова́рный запа́с\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0582",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "口頭回答を作文に入れる",
+    "back": "у́стный отве́т\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0583",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で письме́нная рабо́та が出たら？",
+    "back": "筆記課題\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0584",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "самообразова́ние について考える",
+    "back": "ду́мать о теме «самообразова́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0585",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "ста́рение населе́ния",
+    "back": "人口高齢化\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0586",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "出生率",
+    "back": "рожда́емость\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0587",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "死亡率を作文に入れる",
+    "back": "сме́ртность\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0588",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で трудовы́е ресу́рсы が出たら？",
+    "back": "労働力\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0589",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ме́стное соо́бщество について考える",
+    "back": "ду́мать о теме «ме́стное соо́бщество»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0590",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "поколе́ние",
+    "back": "世代\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0591",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "若者",
+    "back": "молодёжь\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0592",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "高齢者を作文に入れる",
+    "back": "пожило́й челове́к\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0593",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で охра́на приро́ды が出たら？",
+    "back": "自然保護\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0594",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "загрязне́ние во́здуха について考える",
+    "back": "ду́мать о теме «загрязне́ние во́здуха»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0595",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "промы́шленные отхо́ды",
+    "back": "工業廃棄物\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0596",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "気候変動",
+    "back": "измене́ние кли́мата\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0597",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "地震を作文に入れる",
+    "back": "землетрясе́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0598",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で наводне́ние が出たら？",
+    "back": "洪水\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0599",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "урожа́й について考える",
+    "back": "ду́мать о теме «урожа́й»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0600",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "плодоро́дная почва",
+    "back": "肥沃な土\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0601",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "健康的な生活",
+    "back": "здоро́вый о́браз жи́зни\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0602",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "睡眠不足を作文に入れる",
+    "back": "недосы́пание\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0603",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で переутомле́ние が出たら？",
+    "back": "過労\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0604",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "восстано́вление сил について考える",
+    "back": "ду́мать о теме «восстано́вление сил»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0605",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "сиде́чий о́браз жи́зни",
+    "back": "座りがちな生活\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0606",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "血液循環",
+    "back": "кровообраще́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0607",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "生活リズムを作文に入れる",
+    "back": "режи́м дня\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0608",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で пита́ться пра́вильно が出たら？",
+    "back": "正しく食事する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0609",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "бума́жная кни́га について考える",
+    "back": "ду́мать о теме «бума́жная кни́га»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0610",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "электро́нная кни́га",
+    "back": "電子書籍\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0611",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "表現力",
+    "back": "вырази́тельность\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0612",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "音楽演奏を作文に入れる",
+    "back": "музыка́льное исполне́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0613",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で впечатле́ние が出たら？",
+    "back": "印象\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0614",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "неви́димая нить について考える",
+    "back": "ду́мать о теме «неви́димая нить»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0615",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "свя́зывать люде́й",
+    "back": "人々を結びつける\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0616",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "文化的伝統",
+    "back": "культу́рная тради́ция\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0617",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "外国人観光客を作文に入れる",
+    "back": "иностра́нный тури́ст\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0618",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で чре́змерный тури́зм が出たら？",
+    "back": "オーバーツーリズム\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0619",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "достопримеча́тельность について考える",
+    "back": "ду́мать о теме «достопримеча́тельность»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0620",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "ме́стные жи́тели",
+    "back": "地元住民\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0621",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "道を教える",
+    "back": "показа́ть доро́гу\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0622",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "ホテルを予約するを作文に入れる",
+    "back": "заброни́ровать гости́ницу\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0623",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で путеше́ствовать на по́езде が出たら？",
+    "back": "列車で旅する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0624",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "прия́тное воспомина́ние について考える",
+    "back": "ду́мать о теме «прия́тное воспомина́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0625",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "иску́сственный интелле́кт",
+    "back": "人工知能\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0626",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "モバイル端末",
+    "back": "моби́льное устро́йство\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0627",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "情報を処理するを作文に入れる",
+    "back": "обраба́тывать информа́цию\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0628",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сохраня́ть да́нные が出たら？",
+    "back": "データを保存する\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0629",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "совреме́нные техноло́гии について考える",
+    "back": "ду́мать о теме «совреме́нные техноло́гии»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0630",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "техни́ческое разви́тие",
+    "back": "技術発展\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0631",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "アプリを使う",
+    "back": "по́льзоваться прило́жением\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0632",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "オフラインで動くを作文に入れる",
+    "back": "рабо́тать офла́йн\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "技術",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0633",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で по моему́ мне́нию が出たら？",
+    "back": "私の意見では\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0634",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "на мой взгляд について考える",
+    "back": "ду́мать о теме «на мой взгляд»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0635",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "с друго́й стороны́",
+    "back": "一方で\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0636",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "注意を向ける",
+    "back": "обраща́ть внима́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0637",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "重要だと考えるを作文に入れる",
+    "back": "счита́ть ва́жным\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "意見",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0638",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で сомнева́ться が出たら？",
+    "back": "疑う／迷う\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0639",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "соглаша́ться について考える",
+    "back": "ду́мать о теме «соглаша́ться»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "意見",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0640",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "возража́ть",
+    "back": "反論する\n\nテーマ：意見",
+    "tags": [
+      "合格増強",
+      "意見"
+    ]
+  },
+  {
+    "id": "pass-fill-0641",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "教育・学習",
+    "back": "обуче́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0642",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "成績を作文に入れる",
+    "back": "успе́ваемость\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0643",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で уче́бная нагру́зка が出たら？",
+    "back": "学習負担\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0644",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "подгото́вка к экза́мену について考える",
+    "back": "ду́мать о теме «подгото́вка к экза́мену»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0645",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "слова́рный запа́с",
+    "back": "語彙力\n\nテーマ：教育",
+    "tags": [
+      "合格増強",
+      "教育"
+    ]
+  },
+  {
+    "id": "pass-fill-0646",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "口頭回答",
+    "back": "у́стный отве́т\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0647",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "筆記課題を作文に入れる",
+    "back": "письме́нная рабо́та\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "教育",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0648",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で самообразова́ние が出たら？",
+    "back": "独学\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "教育",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0649",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ста́рение населе́ния について考える",
+    "back": "ду́мать о теме «ста́рение населе́ния»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0650",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "рожда́емость",
+    "back": "出生率\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0651",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "死亡率",
+    "back": "сме́ртность\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0652",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "労働力を作文に入れる",
+    "back": "трудовы́е ресу́рсы\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "社会",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0653",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で ме́стное соо́бщество が出たら？",
+    "back": "地域社会\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0654",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "поколе́ние について考える",
+    "back": "ду́мать о теме «поколе́ние»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0655",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "молодёжь",
+    "back": "若者\n\nテーマ：社会",
+    "tags": [
+      "合格増強",
+      "社会"
+    ]
+  },
+  {
+    "id": "pass-fill-0656",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "高齢者",
+    "back": "пожило́й челове́к\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "社会",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0657",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "自然保護を作文に入れる",
+    "back": "охра́на приро́ды\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0658",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で загрязне́ние во́здуха が出たら？",
+    "back": "大気汚染\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0659",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "промы́шленные отхо́ды について考える",
+    "back": "ду́мать о теме «промы́шленные отхо́ды»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0660",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "измене́ние кли́мата",
+    "back": "気候変動\n\nテーマ：環境",
+    "tags": [
+      "合格増強",
+      "環境"
+    ]
+  },
+  {
+    "id": "pass-fill-0661",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "地震",
+    "back": "землетрясе́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0662",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "洪水を作文に入れる",
+    "back": "наводне́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "環境",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0663",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で урожа́й が出たら？",
+    "back": "収穫\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0664",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "плодоро́дная почва について考える",
+    "back": "ду́мать о теме «плодоро́дная почва»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "環境",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0665",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "здоро́вый о́браз жи́зни",
+    "back": "健康的な生活\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0666",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "睡眠不足",
+    "back": "недосы́пание\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0667",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "過労を作文に入れる",
+    "back": "переутомле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0668",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で восстано́вление сил が出たら？",
+    "back": "体力回復\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0669",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "сиде́чий о́браз жи́зни について考える",
+    "back": "ду́мать о теме «сиде́чий о́браз жи́зни»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0670",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "кровообраще́ние",
+    "back": "血液循環\n\nテーマ：健康",
+    "tags": [
+      "合格増強",
+      "健康"
+    ]
+  },
+  {
+    "id": "pass-fill-0671",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "生活リズム",
+    "back": "режи́м дня\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "健康",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0672",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "正しく食事するを作文に入れる",
+    "back": "пита́ться пра́вильно\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "健康",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0673",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で бума́жная кни́га が出たら？",
+    "back": "紙の本\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0674",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "электро́нная кни́га について考える",
+    "back": "ду́мать о теме «электро́нная кни́га»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0675",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "вырази́тельность",
+    "back": "表現力\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0676",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "音楽演奏",
+    "back": "музыка́льное исполне́ние\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0677",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "印象を作文に入れる",
+    "back": "впечатле́ние\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "文化",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0678",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で неви́димая нить が出たら？",
+    "back": "見えない糸\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0679",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "свя́зывать люде́й について考える",
+    "back": "ду́мать о теме «свя́зывать люде́й»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "文化",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0680",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "культу́рная тради́ция",
+    "back": "文化的伝統\n\nテーマ：文化",
+    "tags": [
+      "合格増強",
+      "文化"
+    ]
+  },
+  {
+    "id": "pass-fill-0681",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "外国人観光客",
+    "back": "иностра́нный тури́ст\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0682",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "オーバーツーリズムを作文に入れる",
+    "back": "чре́змерный тури́зм\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0683",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で достопримеча́тельность が出たら？",
+    "back": "名所\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0684",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "ме́стные жи́тели について考える",
+    "back": "ду́мать о теме «ме́стные жи́тели»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0685",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "показа́ть доро́гу",
+    "back": "道を教える\n\nテーマ：旅行",
+    "tags": [
+      "合格増強",
+      "旅行"
+    ]
+  },
+  {
+    "id": "pass-fill-0686",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "ホテルを予約する",
+    "back": "заброни́ровать гости́ницу\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "日露"
+    ]
+  },
+  {
+    "id": "pass-fill-0687",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "作文反復",
+    "front": "列車で旅するを作文に入れる",
+    "back": "путеше́ствовать на по́езде\n\n例：Э́та те́ма о́чень ва́жна.",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "作文"
+    ]
+  },
+  {
+    "id": "pass-fill-0688",
+    "level": 3,
+    "category": "composition",
+    "round": null,
+    "section": "読解反復",
+    "front": "長文で прия́тное воспомина́ние が出たら？",
+    "back": "良い思い出\n\n文脈から意味を取る。",
+    "tags": [
+      "合格増強",
+      "旅行",
+      "読解"
+    ]
+  },
+  {
+    "id": "pass-fill-0689",
+    "level": 2,
+    "category": "case",
+    "round": null,
+    "section": "表現反復",
+    "front": "иску́сственный интелле́кт について考える",
+    "back": "ду́мать о теме «иску́сственный интелле́кт»\n\nо + П.п. の型。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "格"
+    ]
+  },
+  {
+    "id": "pass-fill-0690",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "合格語彙反復",
+    "front": "моби́льное устро́йство",
+    "back": "モバイル端末\n\nテーマ：技術",
+    "tags": [
+      "合格増強",
+      "技術"
+    ]
+  },
+  {
+    "id": "pass-fill-0691",
+    "level": 1,
+    "category": "vocab",
+    "round": null,
+    "section": "日露反復",
+    "front": "情報を処理する",
+    "back": "обраба́тывать информа́цию\n\n日本語からロシア語。",
+    "tags": [
+      "合格増強",
+      "技術",
+      "日露"
+    ]
   }
 ];
