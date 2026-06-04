@@ -1,4 +1,4 @@
-const CACHE_NAME = "russian2-app-v18";
+const CACHE_NAME = "russian2-cache-v1000-stable";
 
 const FILES_TO_CACHE = [
   "./",
