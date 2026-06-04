@@ -22,7 +22,7 @@ function updateCounts() {
     const lv1 = cards.filter(card => card.level <= 1).length;
     const lv2 = cards.filter(card => card.level <= 2).length;
     const lv3 = cards.filter(card => card.level <= 3).length;
-    totalCount.textContent = `カード数：Lv1 ${lv1}枚 / Lv2 ${lv2}枚 / Lv3 ${lv3}枚`;
+    totalCount.textContent = `カード数：第1形態 ${lv1}枚まで / 第2形態 ${lv2}枚まで / 第3形態 ${lv3}枚まで`;
   }
 }
 
@@ -51,7 +51,7 @@ function selectLevel(level) {
 
   document.getElementById("levelScreen").classList.add("hidden");
   document.getElementById("categoryScreen").classList.remove("hidden");
-  document.getElementById("selectedLevelLabel").textContent = `レベル${level}`;
+  document.getElementById("selectedLevelLabel").textContent = `第${level}形態`;
 
   updateCategoryCount();
 }
