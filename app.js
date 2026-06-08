@@ -143,7 +143,15 @@ function showCard() {
   document.getElementById("progress").textContent =
     `${currentIndex + 1} / ${currentCards.length}`;
 
-  document.getElementById("tag").textContent = card.tag || "";
+  let tagText = "";
+
+  if (card.tag) {
+    tagText = card.tag;
+  } else if (Array.isArray(card.tags)) {
+    tagText = card.tags.join(" / ");
+  }
+
+  document.getElementById("tag").textContent = tagText;
   document.getElementById("front").textContent = card.front || "";
   document.getElementById("back").textContent = card.back || "";
   document.getElementById("back").classList.add("hidden");
